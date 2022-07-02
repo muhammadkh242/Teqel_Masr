@@ -8,18 +8,18 @@ Moreover, they have the ability to choose their account type Guest, Buyer and Se
 
 ## Features
 
-● User can register using email .
-● User can choose to register as seller, buyer or to continue as a guest without registration.
-● User can view all offered products from all categories from the market.
-● User can view the spare parts category.
-● User can view the equipment category whether it is offered for sell or for rent.
-● Registered user can view the contact info of the seller of a particular product.
-● Registered user can add items to their favourite list, view and delete products from the list.
-● Registered user can view their own profile and edit their name or switch the type of their account as seller or as buyer.
-● Registered user as a seller can view their own products, edit or delete any product.
-● Registered user as a seller can offer products for sell or rent and choose the desired location for each product from the map.
-● User can filter any category according to price range and type.
-● User can search any category.
+-  User can register using email .
+- User can choose to register as seller, buyer or to continue as a guest without registration.
+- User can view all offered products from all categories from the market.
+- User can view the spare parts category.
+- User can view the equipment category whether it is offered for sell or for rent.
+- Registered user can view the contact info of the seller of a particular product.
+- Registered user can add items to their favourite list, view and delete products from the list.
+- Registered user can view their own profile and edit their name or switch the type of their account as seller or as buyer.
+- Registered user as a seller can view their own products, edit or delete any product.
+- Registered user as a seller can offer products for sell or rent and choose the desired location for each product from the map.
+- User can filter any category according to price range and type.
+- User can search any category.
 
 
 
