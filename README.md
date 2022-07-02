@@ -1,4 +1,4 @@
-# Teqel_Masr
+# Teqel Masr
 
 TeqelMasr Android Application is about establishing connections between people
 in heavy equipment field across Egypt's governorates.
@@ -25,20 +25,20 @@ Moreover, they have the ability to choose their account type Guest, Buyer and Se
 
 ## Tools
 
-Android jetpack
-Kotlin programming
-Third parties libraries:
-∎ Shopify Api
-∎ Firebase
-∎ Retrofit
-∎ Google AdMob
-∎ kotlin coroutines
-∎ Live data
-∎ Glide
-∎ Google Maps
+- Android jetpack
+- Kotlin programming
+- Third parties libraries:
+- Shopify Api
+- Firebase
+- Retrofit
+- Google AdMob
+- kotlin coroutines
+- Live data
+- Glide
+- Google Maps
 
 
-##Screens
+## Screens
 
 <img src="https://user-images.githubusercontent.com/66799646/177001095-05d9f51c-2c3d-4357-b699-a077642c2dc6.png" height="640" width="288">
 <img src="https://user-images.githubusercontent.com/66799646/177001094-80c08d1d-94c0-4190-9a22-fba11464a4ba.png" height="640" width="288">
